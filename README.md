@@ -1,7 +1,7 @@
 # FYDP
 
 ## Link to Overleaf Report latex paper
-https://www.overleaf.com/project/647b8179da02d4f2c1684736
+[https://www.overleaf.com/project/647b8179da02d4f2c1684736](https://www.overleaf.com/6522374436fjnktjcrjnwy)
 
 ## Link to prototyping Figma
 
