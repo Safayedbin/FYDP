@@ -6,7 +6,7 @@
 ## Link to prototyping Figma
 
 
-## Link to prototyping Figma
+## Link to important docs 
 important link for text extraction and detection 
 https://nanonets.com/blog/deep-learning-ocr/
 
