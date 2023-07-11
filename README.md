@@ -10,7 +10,7 @@
 important link for text extraction and detection 
 https://nanonets.com/blog/deep-learning-ocr/
 
-## Link to Presentation docs[
+## Link to Presentation docs
 
 presentation 1
 https://docs.google.com/presentation/d/1r0PFLT5yS-ZGv8uuQtDmgVNxsyBsoOMaS__kkLbttHg/edit#slide=id.gc6f80d1ff_0_23](https://docs.google.com/presentation/d/1r0PFLT5yS-ZGv8uuQtDmgVNxsyBsoOMaS__kkLbttHg/edit#slide=id.g24ecd43469b_0_0)
