@@ -25,5 +25,10 @@ https://docs.google.com/presentation/d/1DJ9Ycfsidk3OiZ2_ItNmzu7hBqylVCJck3DZ-5DJ
 presentation 3
 https://docs.google.com/presentation/d/1mTVAPJpGgUEv1Pqnu6igO0KDW8pTBLTy6uU7oICBJHM/edit#slide=id.gc6f9e470d_0_0
 
+
+## Link to prototyping Figma poster
 poster
 https://www.figma.com/file/3YC1aQ8QhJacNLNgZ6PelL/Untitled?type=design&node-id=0%3A1&mode=design&t=ePtCvX5pmrF366aj-1
+
+## Link to Pre-defense 
+https://docs.google.com/presentation/d/19c_tGhecnmIu2k4BoGRgX_shUK3taQ_WfbaEdZ5qjY4/edit?pli=1#slide=id.p
