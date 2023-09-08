@@ -35,6 +35,10 @@ https://www.figma.com/file/3YC1aQ8QhJacNLNgZ6PelL/Untitled?type=design&node-id=0
 https://docs.google.com/presentation/d/19c_tGhecnmIu2k4BoGRgX_shUK3taQ_WfbaEdZ5qjY4/edit?pli=1#slide=id.p
 .....................
 
+## links to papers that needs to be seen by access
+
+https://ieeexplore.ieee.org/abstract/document/10234818
+
 
 
 
