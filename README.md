@@ -34,7 +34,7 @@ https://www.figma.com/file/3YC1aQ8QhJacNLNgZ6PelL/Untitled?type=design&node-id=0
 ## Link to Pre-defense 
 https://docs.google.com/presentation/d/19c_tGhecnmIu2k4BoGRgX_shUK3taQ_WfbaEdZ5qjY4/edit?pli=1#slide=id.p
 .....................
-## Link to Pre-defense 
+## Link to defense 
 https://docs.google.com/presentation/d/1KMzXMICekNVvLqNYENsmOY_aF219fbu6P23fJyZ-u7o/edit?usp=sharing
 
 ## links to papers that needs to be seen by access
